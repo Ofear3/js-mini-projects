@@ -47,16 +47,6 @@ A console-based system to manage student records efficiently.
 
 ---
 
-### 3️⃣ Quiz Game
-An interactive quiz game to test knowledge with scoring and difficulty levels.
-
-#### Features:
-- Multiple-choice questions
-- Timer for each question
-- Score tracking
-- Multiple difficulty levels
-- Save high scores
-
 #### Concepts Used:
 - Timers (`setTimeout`, `setInterval`)
 - Game logic
